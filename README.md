@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivani-1198
-- 👀 I’m interested in expanding my horizon in computer science and learn more and expand my knowledge in python
-- 🌱 I’m currently learning python and java
+- 👀 I am pursuing a MS degree in computer science at Syracuse University in New York. 
+- 🌱 I am looking for a summer internship to gain some professional experience, and to apply my knowledge in a real-world setting.
 - 💞️ I’m looking to collaborate on more and more projects related to python
 - 📫 How to reach me your can contact through my email id agarwalshivani10411@gmail.com
 

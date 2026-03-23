@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shivani Agarwal (@shivani-1198)
-- 💼 Software Engineer at Robinhood, working on large-scale backend and financial systems
-- 🧠 MS in Computer Science from Syracuse University (GPA: 3.7)
-- 🔧 Primarily focused on backend engineering with Python and Go; experienced with Kafka, Airflow, Kubernetes, and Spark
-- 🌱 Interested in building reliable, scalable systems and exploring applied ML and platform engineering
-- 🤝 Open to collaborating on backend, data engineering, and Python-based projects
-- 📫 Reach me at: agarwalshivani10411@gmail.com
+👋 Hi, I'm Shivani Agarwal (@shivani-1198)
+💼 Software Engineer at Robinhood | Building authorization gateways, FINRA regulatory automation, and platform reliability systems
+🧠 MS in Computer Science from Syracuse University (GPA: 3.7)
+🔧 Backend-focused engineer working primarily in Go and Python; experienced with Kafka, Airflow, Kubernetes, Spark, and distributed systems at scale
+🌱 Interested in applied ML, platform engineering, and large-scale financial infrastructure
+🤝 Open to collaborating on backend, data engineering, and Python/Go-based projects
+📫 Reach me at: agarwalshivani10411@gmail.com
